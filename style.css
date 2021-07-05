@@ -17,7 +17,7 @@ body {
   margin-left: 5%;
   width: 50%;
   margin-top: 50px;
-  margin-bottom: 80px;
+  margin-bottom: 70px;
 }
 .top-m {
   margin-top: 110px;
@@ -56,4 +56,57 @@ span {
 .second-img img {
   width: 57%;
   margin-left: 65px;
+}
+.my-recipie {
+  text-align: center;
+  padding: 0px 300px;
+  margin-bottom: 50px;
+}
+.recipies p {
+  margin-top: 20px;
+}
+.dishes {
+  display: flex;
+  margin: 0% 7%;
+  margin-bottom: 60px;
+}
+.recipe-item {
+  margin-right: 60px;
+}
+.card {
+  padding: 15px;
+  box-shadow: 2px 8px 8px 8px hsl(0, 4%, 82%);
+  border-radius: 15px;
+}
+.card h2 {
+  color: #000;
+  margin-top: 20px;
+  font-weight: 900px;
+}
+.card img {
+  width: 100%;
+}
+
+.num-card {
+  display: flex;
+  box-shadow: 2px 8px 8px 8px hsl(0, 4%, 82%);
+  margin: 0% 7%;
+  border-radius: 10px;
+  padding: 50px 0px;
+}
+
+.subs {
+  margin-left: 180px;
+}
+.subs h1 {
+  color: #000;
+}
+footer {
+  text-align: center;
+  padding: 50px 100px;
+  background-color: #000;
+  margin-top: 80px;
+}
+footer h3 {
+  margin-bottom: 20px;
 }
